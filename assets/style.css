@@ -1,0 +1,33 @@
+body {
+    background-color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    text-align: center;
+    padding-top: 50%;
+    font-size: 30px;
+}
+div#counter{
+    text-align: center;
+    background-color: rgb(221, 212, 217);
+    margin-left: 700px;
+    margin-right: 700px;
+    padding-bottom: 200px;
+    border-radius: 10px;
+}
+button{
+    background-color: yellow;
+    border-radius: 50%;
+    border: none;
+    width: 60px;
+    height: 60px;
+    margin-top: 20%;
+    font-size: 30px;
+}
+
+span{
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-size: 40px;
+}
